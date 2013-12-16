@@ -1,0 +1,47 @@
+.box-wordpress-blog h2 {
+font-size: 14px;
+}
+ul.box-wordpress-blog {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+}
+ul.box-wordpress-blog:after {
+clear: both;
+line-height: 0;
+content: "";
+}
+ul.box-wordpress-blog li {
+display: inline-block;
+vertical-align: top;
+width: 226.666667px;
+padding-right: 10px;
+*zoom:1;
+*display: inline;
+margin-bottom: 20px;
+}
+ul.box-wordpress-blog li:last-child {
+}
+ul.box-wordpress-blog li .article-title a {
+font-size: 16px;
+line-height: 1.3em;
+}
+ul.box-wordpress-blog li .article-author-section {
+color: #999;
+font-size: 14px;
+line-height: 25px;
+}
+ul.box-wordpress-blog li span.author-name {
+border-right: 2px solid #EEE;
+padding-right: 8px;
+}
+ul.box-wordpress-blog li span.article-date {
+padding-left: 6px;
+}
+ul.box-wordpress-blog li .article-author-section {
+color: #999;
+}
+ul.box-wordpress-blog li p {
+font-size: 14px;
+line-height: 25px;
+}
