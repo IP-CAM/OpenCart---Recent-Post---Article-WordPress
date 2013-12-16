@@ -1,4 +1,4 @@
-﻿# WordPress Blog - Recent Article / Post
+﻿# OpenCart Extension - Recent Article / Post WordPress
 
 ### Requirement:​
 * [WordPress Installation](wordpress.org/download/ "WordPress Installation")
